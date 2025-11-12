@@ -7,7 +7,7 @@ import os # <-- Make sure this is imported
 # --- NEW DOWNLOAD LOGIC ---
 
 # I have added your Google Drive link here.
-SIMILARITY_URL = "https://drive.google.com/uc?id=1MwnezfDihkS-cUmjvTxWRG0Vu52vnXyN&export=download"
+SIMILARITY_URL = "https://huggingface.co/WaqarAhmadRiaz/Movie_recommender_system/blob/main/similarity.pkl"
 SIMILARITY_PATH = "similarity.pkl"
 
 def download_file(url, path, file_name):
